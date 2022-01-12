@@ -32,3 +32,14 @@ body
 {
     font-size: 20px;
 }
+
+.footer {
+    position: fixed;
+    margin: 0 auto;
+    padding: 0;
+    left: 188px;
+    width: 72.5%;
+    background-color: #DDD ;
+    color: black;
+    text-align: center;
+  }
